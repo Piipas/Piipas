@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Ismail Baalouk
 
-<!--
-**Piipas/Piipas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pipas](link_to_banner_image)
 
-Here are some ideas to get you started:
+I'm a Full-stack developer. Welcome to my corner of GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+
+- Currently diving deep into React and Javascript
+- Exploring the world of Javascript frameworks
+
+## 📚 My Skills
+
+- 🖥️ Languages: Javascript, Python, PHP
+- 🛠️ Frameworks/Libraries: React, Nodejs, Express, Laravel, Tailwindcss, Bootstrap, Sass
+
+## 📫 Let's Connect
+
+- 🐦 [Twitter](https://twitter.com/pipasdev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ismail-baalouk)
+
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi!
