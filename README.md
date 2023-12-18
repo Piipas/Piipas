@@ -6,7 +6,7 @@ I'm a Full-stack developer. Welcome to my corner of GitHub!
 
 ## 🔭 What I'm Working On
 
-- Currently diving deep into React and Javascript
+- Currently diving deep into React and Nodejs
 - Exploring the world of Javascript technologies
 
 ## 📚 My Skills
