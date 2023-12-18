@@ -1,18 +1,19 @@
 ### Hi there 👋 I'm Ismail Baalouk
 
-![Pipas](link_to_banner_image)
-
 I'm a Full-stack developer. Welcome to my corner of GitHub!
+
+![Pipas](https://media.licdn.com/dms/image/D4E16AQHEioho-a82gw/profile-displaybackgroundimage-shrink_350_1400/0/1701276729004?e=1708560000&v=beta&t=Vh0mLfCnn2qpzhtEBqNZR6ZXNKWQdXEZ4DsartM6Fy0)
 
 ## 🔭 What I'm Working On
 
 - Currently diving deep into React and Javascript
-- Exploring the world of Javascript frameworks
+- Exploring the world of Javascript technologies
 
 ## 📚 My Skills
 
 - 🖥️ Languages: Javascript, Python, PHP
-- 🛠️ Frameworks/Libraries: React, Nodejs, Express, Laravel, Tailwindcss, Bootstrap, Sass
+- 🛠️ Frameworks/Libraries: React, jQuery, NodeJs, Express, Laravel, Tailwindcss, Bootstrap, Sass
+- 🗄️ Databases: MySQL, Postgresql, MongoDB
 
 ## 📫 Let's Connect
 
