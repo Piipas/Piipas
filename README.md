@@ -2,7 +2,7 @@
 
 I'm a Full-stack developer. Welcome to my corner of GitHub!
 
-![Pipas](https://media.licdn.com/dms/image/D4E16AQHEioho-a82gw/profile-displaybackgroundimage-shrink_350_1400/0/1701276729004?e=1714608000&v=beta&t=SUyLf7Y8DML14pkRWKSwZ5aPvOLrvXvi71AfAtfWPVY)
+![Pipas](https://media.licdn.com/dms/image/D4E16AQHEioho-a82gw/profile-displaybackgroundimage-shrink_350_1400/0/1701276729004?e=1720051200&v=beta&t=8yD-NuUq1wVujQlD3dIZhTYufo6zcGMF8QQBBEpS3ZE)
 
 ## 🔭 What I'm Working On
 
