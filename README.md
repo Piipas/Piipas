@@ -12,7 +12,7 @@ I'm a Full-stack developer. Welcome to my corner of GitHub!
 
 ## 📫 Let's Connect
 
-- 🐦 [Twitter](https://twitter.com/pipasdev)
+- 🐦 [Twitter](https://twitter.com/pipas_dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ismail-baalouk)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi!
