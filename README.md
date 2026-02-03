@@ -51,9 +51,9 @@ I'm a **Junior Full-Stack Developer** passionate about building scalable web and
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piipas&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats-eta-amber-57.vercel.app/api?username=Piipas&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piipas&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eta-amber-57.vercel.app/api/top-langs/?username=piipas&layout=compact&theme=tokyonight)
 
 ---
 
