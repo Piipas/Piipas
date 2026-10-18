@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ismail Baalouk!
 
-I'm a **Junior Full-Stack Developer** passionate about building scalable web and mobile applications. I love working with modern JavaScript frameworks, REST APIs, and DevOps tools.
+I'm a **Full-Stack Developer** passionate about building scalable web and mobile applications. I love working with modern JavaScript frameworks, REST APIs, and DevOps tools.
 
 ---
 
